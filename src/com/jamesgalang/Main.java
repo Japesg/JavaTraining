@@ -1,8 +1,5 @@
 package com.jamesgalang;
 
-import com.sun.deploy.util.StringUtils;
-import com.sun.tools.javac.util.ArrayUtils;
-
 public class Main {
 
     public static void main(String[] args) {
